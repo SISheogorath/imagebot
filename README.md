@@ -5,4 +5,6 @@ Many images are more or less unmaintained because the developers finished their 
 
 This bot helps to keep projects up-to-date by informing the developer about a new version by opening a git issue.
 
-it requires [`hub`](https://hub.github.com/) to be installed.
+It requires [`hub`](https://hub.github.com/) to be installed.
+
+Use the `setup.sh` to install the project including hub. (for the project only)
